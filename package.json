@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.16.1",
+    "webpack": "^1.13.0"
+  }
+}
